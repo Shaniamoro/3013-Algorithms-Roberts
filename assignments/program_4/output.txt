@@ -1,0 +1,15 @@
+
+Lebanon, Kansas
+4.42825e+09 miles 56556 edges 
+
+Miami Beach, Florida
+4.42825e+09 miles 56556 edges 
+
+Lake Dallas, Texas
+4.42825e+09 miles 56556 edges 
+
+Boston, Massachusetts
+4.42825e+09 miles 56556 edges 
+
+San Juan, Puerto Rico
+73396.1 miles 297 edges 
