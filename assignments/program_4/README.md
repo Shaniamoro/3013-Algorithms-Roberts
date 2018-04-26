@@ -1,5 +1,4 @@
 ## Create Spanning Tree's (Not Really) 
-/*
 * Name: Shania Roberts
 * Date: 04.20.18
 * Assignment: Program 4
@@ -10,4 +9,4 @@
  * reachable by ensuring that each vertex has a max degree of 3,
  * where each edge represents one of three closest cities to that
  * vertex.
- */
+ 
